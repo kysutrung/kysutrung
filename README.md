@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Trung Kysu
-- 👀 I’m interested in camping, biking, raving and filming vlog
+## 👋 Hi, I’m Trung Kysu
+- 👀 I’m interested in camping, biking, djing and filming vlog
 - 🌱 I’m currently learning automation engineer in college 
 - 💞️ I’m looking to collaborate on a horror game project using UE5
 - 📫 How to reach me: letterbox.trung@gmail.com
