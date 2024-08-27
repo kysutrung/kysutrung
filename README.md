@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Trung Kysu
+## 👋 Hi, I’m Trung
 - 👀 I’m interested in camping, biking, djing and filming vlog
 - 🌱 I’m currently learning automation engineer in college 
 - 💞️ I’m looking to collaborate on a horror game project using UE5
