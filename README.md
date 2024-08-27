@@ -2,6 +2,7 @@
 - 🌱 As know as an automation engineer college student
 - 👀 I’m interested in camping, biking, djing and filming vlog
 - 💞️ I’m working on a horror game project using UE5 and looking for collaborate
+- 👨‍💻 All of my projects are available at https://github.com/kysutrung/university_coding_experiments
 - 📫 How to reach me: letterbox.trung@gmail.com
 - ⚡ Fun fact: I'm quit my dream job as a film editor then learn how to code and became a developer
 
