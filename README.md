@@ -1,7 +1,7 @@
-## 👋 Hi, I’m Trung
+## 👋 Hi, I’m Trung aka Trungtaulua
+- 🌱 As know as an automation engineer college student
 - 👀 I’m interested in camping, biking, djing and filming vlog
-- 🌱 I’m currently learning automation engineer in college 
-- 💞️ I’m looking to collaborate on a horror game project using UE5
+- 💞️ I’m working on a horror game project using UE5 and looking for collaborate
 - 📫 How to reach me: letterbox.trung@gmail.com
 - ⚡ Fun fact: I'm quit my dream job as a film editor then learn how to code and became a developer
 
