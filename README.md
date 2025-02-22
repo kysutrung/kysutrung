@@ -6,5 +6,5 @@
 - 📫 How to reach me: letterbox.trung@gmail.com
 - ⚡ Fun fact: I'm quit my dream job as a film editor then learn how to code and became a developer
 
-| ![1](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh5ZXU0cGlpZmNjMHlkdnJ1N3UyenI1OHQ1cDJmMmp5ZGxhYnByMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w5eFyOHmkS8uc/giphy.gif) | ![2](https://media.giphy.com/media/AsETz3LKBp9bG/giphy.gif?cid=790b76116dptu8dxh7qxy1tej8ctohf8n5ojjzgqanou4kv1&ep=v1_gifs_search&rid=giphy.gif&ct=g) | ![3](https://media.giphy.com/media/JE5A5Ik63HUc3vZYS4/giphy.gif?cid=790b7611dws54tsj3d935rsjtfewd9vi7lrjmn73avou14qm&ep=v1_gifs_search&rid=giphy.gif&ct=g) |
+| ![1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxoZmJjNng3dDQ4a3o4aXBvZDhhZ2RqaXoyYjR6ZmhtaTUyNXBmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/REPL2BIiGhyFO/giphy.gif) | ![2](https://media.giphy.com/media/AsETz3LKBp9bG/giphy.gif?cid=790b76116dptu8dxh7qxy1tej8ctohf8n5ojjzgqanou4kv1&ep=v1_gifs_search&rid=giphy.gif&ct=g) | ![3](https://media.giphy.com/media/JE5A5Ik63HUc3vZYS4/giphy.gif?cid=790b7611dws54tsj3d935rsjtfewd9vi7lrjmn73avou14qm&ep=v1_gifs_search&rid=giphy.gif&ct=g) |
 | --- | --- | --- |
