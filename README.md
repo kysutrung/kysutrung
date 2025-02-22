@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Trung aka Trungtaulua
 - 🌱 As know as an automation engineer college student
 - 👀 I’m interested in dj, filming vlog, camping and biking
-- 💞️ I’m working on a horror game project using UE5 and looking for collaborate
+- 💞️ I'm working on some automation projects and a horror game project using UE5 (looking for collaboration)
 - 👨‍💻 All of my projects are available at https://github.com/kysutrung/university_coding_experiments
 - 📫 How to reach me: letterbox.trung@gmail.com
 - ⚡ Fun fact: I'm quit my dream job as a film editor then learn how to code and became a developer
