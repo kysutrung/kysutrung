@@ -9,13 +9,12 @@
 # 👋 CHÀO MỪNG TẤT CẢ CÁC BÁC ĐÃ ĐẾN VỚI GITHUB CỦA EM
 # 😃 Em là Trung aka Trung Tàu Lửa
 ## 🚀 Về em Trung
-- 🌱 Đang học nốt cái bằng Kĩ sư Tự Động Hóa tại Đại học Quốc gia Hà Nội
+- 🌱 Kĩ sư Tự Động Hóa tại Đại học Quốc gia Hà Nội
 - 🤣 Fun fact: Bỏ đam mê nghề làm phim đi học điện tử và giờ trở thành một lập trình viên tự động hóa
 - 🎧 Đam mê Chế Đồ Điện, DJ, Quay Vlog, Dã Ngoại
   
 ## 🛠 Về các dự án
-Em đang làm một số dự án **tự động hóa** nhỏ và một dự án **game 3D kinh dị** cốt truyện tuyến tính sử dụng Unreal Engine 5 (đang cần tìm các bác hỗ trợ làm cùng)
-
+Em đang làm một số dự án **tự động hóa** liên quan tới **IIOT** và **drone**.
 Các bác có thể tìm thấy tất cả đường dẫn tới các dự án em Trung đã và đang tham gia tại:  
 👉 [Repository Này](https://github.com/kysutrung/university_coding_experiments)  
 
