@@ -10,16 +10,14 @@
 # 😃 Em là Trung aka Trung Tàu Lửa
 ## 🚀 Về em Trung
 - 🌱 Kĩ sư Tự Động Hóa tại Đại học Quốc gia Hà Nội
-- 🤣 Fun fact: Bỏ đam mê nghề làm phim đi học điện tử và giờ trở thành một lập trình viên tự động hóa
-- 🎧 Đam mê Chế Đồ Điện, DJ, Quay Vlog, Dã Ngoại
+- 🤣 Fun fact: Bỏ đam mê nghề làm phim đi học điện tử và giờ trở thành một người thiết kế phần cứng trong ngày tự động hóa
+- 🎧 Đam mê Chế tạo máy móc, DJ, Quay Vlog, Dã Ngoại
   
 ## 🛠 Về các dự án
-Em đang làm một số dự án **tự động hóa** liên quan tới **IIOT** và **drone**.
-Các bác có thể tìm thấy tất cả đường dẫn tới các dự án em Trung đã và đang tham gia tại:  
-👉 [Repository Này](https://github.com/kysutrung/university_coding_experiments)  
+Em đang làm một số dự án **tự động hóa** liên quan tới **IIOT** và **Drone**.
 
 ## 📫 Liên hệ công việc
-- ✉️ Email: [letterbox.trung@gmail.com](mailto:letterbox.trung@gmail.com)  
+- ✉️ Sẵn sàng trao đổi công việc thông qua Zalo, Viber, Kakaotalk, WhatsApp
 
 Rất cảm ơn các bác đã dành thời gian cho em, chúc các bác một ngày vui vẻ! 🚀  
 
