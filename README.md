@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm quit my dream job as a film editor then learn how to code and became a developer -->
 
 # 👋 CHÀO MỪNG CÁC BÁC ĐÃ ĐẾN VỚI GITHUB CỦA EM
-# 😃 Em là Trung Nguyễn hay còn được biết đến với tên Trung Tàu Lửa
+# 😃 Em là Trung Nguyễn hay còn gọi là Trung Tàu Lửa
 ## 🚀 Về em Trung
 - 🌱 Kĩ sư Tự Động Hóa từ Đại học Quốc gia Hà Nội
 - 🤣 Fun fact: Bỏ đam mê nghề làm phim đi học điện tử và giờ trở thành một người thiết kế phần cứng trong ngày tự động hóa
