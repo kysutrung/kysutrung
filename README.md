@@ -14,7 +14,7 @@
 - 🎧 Đam mê Chế tạo máy móc, DJ, Quay Vlog, Dã Ngoại
   
 ## 🛠 Về các dự án
-Em đang làm một số dự án **tự động hóa** liên quan tới **IIOT** và **Drone**.
+Hiện tại em đang làm việc tại một công ty về mảng **IIOT** trong công nghiệp và nghiên cứu sinh về mảng **Drone**
 
 ## 📫 Liên hệ công việc
 - ✉️ Sẵn sàng trao đổi công việc thông qua Zalo, Viber, Kakaotalk, WhatsApp
